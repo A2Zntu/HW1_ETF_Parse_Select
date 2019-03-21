@@ -1,7 +1,7 @@
 # ETF web crawler
 
 ## Something need to update
-Our working on ETF's homepage, codes are in other branches＜/br＞
+Our working on ETF's homepage, codes are in other branches</br>
 flow chart</br>
 Problems</br>
 </br></br>
@@ -11,7 +11,7 @@ Install all packages with this command:
 ```
 ./install.sh
 ```
-</br></br></br>
+</br>
 
 ## How to use
 Get all data in csv form, data will save in "dirtyData"
@@ -23,16 +23,16 @@ Convert them into pandas dataframe and print
 ```
 Python convertData.py
 ```
-</br></br></br>
+</br>
 
 ## Result
 
 <img src="https://github.com/A2Zntu/HW1_ETF_Parse_Select/blob/ETF_price/ETF/result.png" width="500">
 
-</br></br></br>
+</br>
 ## How does we implement
 
-</br></br></br>
+</br>
 
 ## Common Problems
 1. </br>
