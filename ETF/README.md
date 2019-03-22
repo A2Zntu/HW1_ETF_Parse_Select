@@ -42,10 +42,10 @@ Python convertData.py
 1. Don't know where to run our command.</br>
 Ans : Use windows powershell.</br>
 </br>
-2. Selenium cost too much time to get ETF data.</br>
+2. Selenium costs too much time to get ETF data.</br>
 Ans : It's because the browser is slow, we can't help you about this.</br>
 </br>
-3. If you failed when running "getData.py", check if you has "group17_region.csv".</br>
-4. If you can open the browser but cannot get data, it may because yahoo change its html format.</br>
+3. If you failed when running "getData.py", check if you have "group17_region.csv".</br>
+4. If you can open the browser but cannot get data, it may be because yahoo change its html format.</br>
 5. Our program can tell you many information, try to check text shown in the cmd window</br>
 
