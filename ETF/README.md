@@ -29,13 +29,13 @@ Python convertData.py
 
 ## Result
 
-<img src="https://github.com/A2Zntu/HW1_ETF_Parse_Select/blob/ETF_price/ETF/result.png" width="500">
+<img src="https://github.com/A2Zntu/HW1_ETF_Parse_Select/blob/master/ETF/result.png" width="500">
 
 </br>
 
 ## How does we implement
 
-<img src="https://github.com/A2Zntu/HW1_ETF_Parse_Select/blob/ETF_price/ETF/chart.png" width="500">
+<img src="https://github.com/A2Zntu/HW1_ETF_Parse_Select/blob/master/ETF/chart.png" width="500">
 </br>
 
 ## Common Problems
