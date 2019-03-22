@@ -1,10 +1,8 @@
 # ETF web crawler
 
-## Something need to update
-Our working on ETF's homepage, codes are in other branches</br>
-flow chart</br>
-Problems</br>
-</br></br>
+## To TA
+We tried to get some NAV data, codes about this are in NAV. But after some failed, we decided to use yahoo finance website to finish rest of this homework. 
+
 ## Set up environment
 First, you need Python 3.6+ and pip 18+ in your device＜/br＞
 Install all packages with this command:
@@ -46,6 +44,7 @@ Ans : Use windows powershell.</br>
 </br>
 2. Selenium cost too much time to get ETF data.</br>
 Ans : It's because the browser is slow, we can't help you about this.</br>
+</br>
 3. If you failed when running "getData.py", check if you has "group17_region.csv".</br>
 4. If you can open the browser but cannot get data, it may because yahoo change its html format.</br>
 5. Our program can tell you many information, try to check text shown in the cmd window</br>
